@@ -16,7 +16,7 @@
 
 **极速地址**：
 - http://my9.ltd/tv/pblive.txt
-- https://raw.githubusercontent.com/jn950/live/tv/pblive.txt
+- [https://raw.githubusercontent.com/jn950/live/tv/pblive.txt](https://github.com/jn950/live/raw/refs/heads/main/tv/pllive.txt)
 
 ---
 
