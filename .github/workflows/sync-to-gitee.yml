@@ -22,7 +22,7 @@ jobs:
 
       - name: Push to Gitee
         run: |
-          git remote set-url origin https://${GITEE_TOKEN}:x-oauth-basic@gitee.com/lsl_19/live.git
+          git remote set-url origin https://lsl_19:${GITEE_TOKEN}@gitee.com/lsl_19/live.git
           git push -f origin main
         env:
           GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
